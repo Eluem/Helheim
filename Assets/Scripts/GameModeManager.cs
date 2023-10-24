@@ -134,6 +134,10 @@ public class GameModeManager : MonoBehaviour
                 {
                     StartGame();
                 }
+                else if(Input.GetKey(KeyCode.Return) || Input.GetKey(KeyCode.KeypadEnter))
+                {
+                    ForceJoinPlayers();
+                }
                 break;
         }
     }
@@ -240,8 +244,9 @@ public class GameModeManager : MonoBehaviour
         for (int i = 0; i < m_XInputPlayerIndexes.Length; i++)
         {
             XInputDotNetPure.ButtonState tempStartButtonStateCurr = XInputDotNetPure.GamePad.GetState(m_XInputPlayerIndexes[i]).Buttons.Start;
+            bool playerTwoOverride = XInputDotNetPure.GamePad.GetState(m_XInputPlayerIndexes[0]).Buttons.Back == ButtonState.Pressed || XInputDotNetPure.GamePad.GetState(m_XInputPlayerIndexes[1]).Buttons.Back == ButtonState.Pressed;
 
-            if (((tempStartButtonStateCurr == ButtonState.Pressed && m_XInputStartButtonStatesPrev[i] == ButtonState.Released) || (i == 0 && Input.GetKey(KeyCode.KeypadEnter) || i == 1 && Input.GetKey(KeyCode.KeypadPlus))) && !IsPlayerJoined(m_XInputPlayerIndexes[i]))
+            if (((tempStartButtonStateCurr == ButtonState.Pressed && m_XInputStartButtonStatesPrev[i] == ButtonState.Released) || (i == 1 && playerTwoOverride)) && !IsPlayerJoined(m_XInputPlayerIndexes[i]))
             {
                 m_joinedPlayers.Add(m_XInputPlayerIndexes[i]);
 
