@@ -4,6 +4,8 @@ Helheim(WT) is a top down 2d PvP focused action combat game
 The project is still very early in development.
 Many features still have bugs, aren't implemented, or are implemented as debugging tools.
 
+Early gameplay trailer: https://www.youtube.com/watch?v=2a_1QrNX0rU
+
 The game requires 2 xbox controllers to be played correctly. I intend to revamp the input system to enable more input devices.
 
 In the Build folder you'll find an exe to run a debug CTF game mode.
