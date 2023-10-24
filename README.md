@@ -17,6 +17,7 @@ Setup:
 	-Press Start with your controller
 	-Press Back on your controller to emulate the start button on the other player's controller
 		(The order that the players press start determines which team they'll be on and which hardcoded loadout they will control)
+  	-You can also press Enter to force both players to hit start, but you will need a gamepad to play
 		
 Controls:
 	-LStick: Movement
