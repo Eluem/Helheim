@@ -129,12 +129,15 @@ public class PlayerManager : MonoBehaviour, ISystemObject
         #region Handle XInputDotNetPure
         for (int i = 0; i < m_XInputPlayerIndexes.Length; i++)
         {
+            /*
+             //Code to force spawn players with back button
             //TO DO: REMOVE ME DELETE ME
             if(XInputDotNetPure.GamePad.GetState(m_XInputPlayerIndexes[i]).Buttons.Back == ButtonState.Pressed)
             {
                 Debug.Log("delete me!");
                 Inspector_ForceSpawnPlayer();
             }
+            */
 
             XInputDotNetPure.ButtonState tempStartButtonStateCurr = XInputDotNetPure.GamePad.GetState(m_XInputPlayerIndexes[i]).Buttons.Start;
 
