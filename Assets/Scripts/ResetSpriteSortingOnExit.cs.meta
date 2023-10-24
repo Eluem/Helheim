@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5d9f4ea05bf0f744da59d2ff0cba480b
+labels:
+- StateMachineBehavior
+timeCreated: 1457626713
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5a787bd1dd7824842999b673424b054b
+labels:
+- Behavior
+- Abstract
+- Terrain
+timeCreated: 1449074672
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1e933ee4d72b372439f3a6d9860b40ad
+labels:
+- Class
+- Abstract
+- StatusEffect
+timeCreated: 1446124882
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

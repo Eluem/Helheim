@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fbb5d2b2a615a434f851a8738cbf0f4e
+labels:
+- Ability
+- Class
+- Equipment
+- Special
+timeCreated: 1449173985
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 50c27eea20a0ef642a2eff0d199a93d6
+labels:
+- Behavior
+- Equipment
+- Weapon
+timeCreated: 1445440874
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
