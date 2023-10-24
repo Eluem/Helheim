@@ -1,0 +1,571 @@
+fileFormatVersion: 2
+guid: a9537852cfaeda34382f838e07a8bcb4
+timeCreated: 1461960883
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HeadTest1
+    21300002: Head
+    21300004: HeadFlinch
+    21300006: HeadTest2
+    21300008: HandLeftPalmUpTop
+    21300010: HandLeftPalmDownTop
+    21300012: HandLeftThumbUpTop
+    21300014: HandLeftThumbDownTop
+    21300016: HandLeftKnucklesUpTop
+    21300018: HandLeftKnucklesDownTop
+    21300020: FootLeft
+    21300022: FootRight
+    21300024: HandLeftPalmUpBot
+    21300026: HandLeftPalmDownBot
+    21300028: HandLeftThumbUpBot
+    21300030: HandLeftThumbDownBot
+    21300032: HandLeftKnucklesUpBot
+    21300034: HandLeftKnucklesDownBot
+    21300036: HandRightPalmUpTop
+    21300038: HandRightPalmDownTop
+    21300040: HandRightPalmUpBot
+    21300042: HandRightPalmDownBot
+    21300044: HandRightThumbUpTop
+    21300046: HandRightThumbDownTop
+    21300048: HandRightThumbUpBot
+    21300050: HandRightThumbDownBot
+    21300052: HandRightKnucklesUpTop
+    21300054: HandRightKnucklesUpBot
+    21300056: HandRightKnucklesDownTop
+    21300058: HandRightKnucklesDownBot
+    21300060: FootLeftPrint
+    21300062: FootRightPrint
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 700
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Head
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -600, y: 600}
+        - {x: -600, y: -600}
+        - {x: 600, y: -600}
+        - {x: 600, y: 600}
+    - name: HeadFlinch
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3600
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -600, y: 600}
+        - {x: -600, y: -600}
+        - {x: 600, y: -600}
+        - {x: 600, y: 600}
+    - name: HeadTest1
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3600
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -600, y: 600}
+        - {x: -600, y: -600}
+        - {x: 600, y: -600}
+        - {x: 600, y: 600}
+    - name: HeadTest2
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3600
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -600, y: 600}
+        - {x: -600, y: -600}
+        - {x: 600, y: -600}
+        - {x: 600, y: 600}
+    - name: HandLeftPalmUpTop
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 150}
+        - {x: -150, y: -150}
+        - {x: 150, y: -150}
+        - {x: 150, y: 150}
+    - name: HandLeftPalmDownTop
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 3300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 150}
+        - {x: -150, y: -150}
+        - {x: 150, y: -150}
+        - {x: 150, y: 150}
+    - name: HandLeftThumbUpTop
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 150}
+        - {x: -150, y: -150}
+        - {x: 150, y: -150}
+        - {x: 150, y: 150}
+    - name: HandLeftThumbDownTop
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 3300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 150}
+        - {x: -150, y: -150}
+        - {x: 150, y: -150}
+        - {x: 150, y: 150}
+    - name: HandLeftKnucklesUpTop
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 150}
+        - {x: -150, y: -150}
+        - {x: 150, y: -150}
+        - {x: 150, y: 150}
+    - name: HandLeftKnucklesDownTop
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 150}
+        - {x: -150, y: -150}
+        - {x: 150, y: -150}
+        - {x: 150, y: 150}
+    - name: FootLeft
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -300, y: 300}
+        - {x: -300, y: -300}
+        - {x: 300, y: -300}
+        - {x: 300, y: 300}
+    - name: FootRight
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2400
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -300, y: 300}
+        - {x: -300, y: -300}
+        - {x: 300, y: -300}
+        - {x: 300, y: 300}
+    - name: HandLeftPalmUpBot
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 150}
+        - {x: -150, y: -150}
+        - {x: 150, y: -150}
+        - {x: 150, y: 150}
+    - name: HandLeftPalmDownBot
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 3000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 150}
+        - {x: -150, y: -150}
+        - {x: 150, y: -150}
+        - {x: 150, y: 150}
+    - name: HandLeftThumbUpBot
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 150}
+        - {x: -150, y: -150}
+        - {x: 150, y: -150}
+        - {x: 150, y: 150}
+    - name: HandLeftThumbDownBot
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 3000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 150}
+        - {x: -150, y: -150}
+        - {x: 150, y: -150}
+        - {x: 150, y: 150}
+    - name: HandLeftKnucklesUpBot
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 150}
+        - {x: -150, y: -150}
+        - {x: 150, y: -150}
+        - {x: 150, y: 150}
+    - name: HandLeftKnucklesDownBot
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 150}
+        - {x: -150, y: -150}
+        - {x: 150, y: -150}
+        - {x: 150, y: 150}
+    - name: HandRightPalmUpTop
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 150}
+        - {x: -150, y: -150}
+        - {x: 150, y: -150}
+        - {x: 150, y: 150}
+    - name: HandRightPalmDownTop
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 3300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 150}
+        - {x: -150, y: -150}
+        - {x: 150, y: -150}
+        - {x: 150, y: 150}
+    - name: HandRightPalmUpBot
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 150}
+        - {x: -150, y: -150}
+        - {x: 150, y: -150}
+        - {x: 150, y: 150}
+    - name: HandRightPalmDownBot
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 3000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 150}
+        - {x: -150, y: -150}
+        - {x: 150, y: -150}
+        - {x: 150, y: 150}
+    - name: HandRightThumbUpTop
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 150}
+        - {x: -150, y: -150}
+        - {x: 150, y: -150}
+        - {x: 150, y: 150}
+    - name: HandRightThumbDownTop
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 3300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 150}
+        - {x: -150, y: -150}
+        - {x: 150, y: -150}
+        - {x: 150, y: 150}
+    - name: HandRightThumbUpBot
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 150}
+        - {x: -150, y: -150}
+        - {x: 150, y: -150}
+        - {x: 150, y: 150}
+    - name: HandRightThumbDownBot
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 3000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 150}
+        - {x: -150, y: -150}
+        - {x: 150, y: -150}
+        - {x: 150, y: 150}
+    - name: HandRightKnucklesUpTop
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 3300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 150}
+        - {x: -150, y: -150}
+        - {x: 150, y: -150}
+        - {x: 150, y: 150}
+    - name: HandRightKnucklesUpBot
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 3000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 150}
+        - {x: -150, y: -150}
+        - {x: 150, y: -150}
+        - {x: 150, y: 150}
+    - name: HandRightKnucklesDownTop
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 150}
+        - {x: -150, y: -150}
+        - {x: 150, y: -150}
+        - {x: 150, y: 150}
+    - name: HandRightKnucklesDownBot
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 150}
+        - {x: -150, y: -150}
+        - {x: 150, y: -150}
+        - {x: 150, y: 150}
+    - name: FootLeftPrint
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2400
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -300, y: 300}
+        - {x: -300, y: -300}
+        - {x: -296, y: -300}
+        - {x: 300, y: 296}
+        - {x: 300, y: 300}
+    - name: FootRightPrint
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2400
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -300, y: 300}
+        - {x: -300, y: 296}
+        - {x: -298, y: 296}
+        - {x: -296, y: 298}
+        - {x: -296, y: 300}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

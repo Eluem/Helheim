@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: df9c069d3222c8a45a5f92989df48081
+labels:
+- Behavior
+- Hazard
+- Terrain
+- PitFall
+timeCreated: 1449605368
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

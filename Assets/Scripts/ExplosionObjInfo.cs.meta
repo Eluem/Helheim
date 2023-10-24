@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 44f25623bee743e45b34fee05adac065
+labels:
+- Hazard
+- Behavior
+- Abstract
+timeCreated: 1452524261
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

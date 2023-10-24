@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - System
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - InvisibleWall
+  - All
+  - Ground
+  - Floor
+  - Pit
+  - 
+  - 
+  - 
+  - Actor
+  - ActorInvisibleWall
+  - ActorAll
+  - ActorGround
+  - ActorFloor
+  - ActorPit
+  - 
+  - 
+  - ActorHazard
+  - 
+  - 
+  - Hazard
+  - Weapon
+  - 
+  - EnvironmentSolid
+  - EnvironmentLiquid
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3628162383
+    locked: 0
+  - name: UnderGround
+    uniqueID: 3564914883
+    locked: 0
+  - name: Ground
+    uniqueID: 1967227391
+    locked: 0
+  - name: Terrain
+    uniqueID: 1918091309
+    locked: 0
+  - name: MiddleGroundLow
+    uniqueID: 9999111
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: MiddleGroundHigh
+    uniqueID: 4091670581
+    locked: 0
+  - name: ParticleEffect
+    uniqueID: 3821811435
+    locked: 0
+  - name: Foreground
+    uniqueID: 3755283667
+    locked: 0
+  - name: GUI
+    uniqueID: 2646778691
+    locked: 0

@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: be340c252dec1da489e4378554159330
+timeCreated: 1460145094
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Map_EpicBalcony_RiverWaves_0
+    21300002: Map_EpicBalcony_RiverWaves_1
+    21300004: Map_EpicBalcony_RiverWaves_2
+    21300006: Map_EpicBalcony_RiverWaves_3
+    21300008: Map_EpicBalcony_RiverWaves_4
+    21300010: Map_EpicBalcony_RiverWaves_6
+    21300012: Map_EpicBalcony_RiverWaves_7
+    21300014: Map_EpicBalcony_RiverWaves_8
+    21300016: Map_EpicBalcony_RiverWaves_9
+    21300018: Map_EpicBalcony_RiverWaves_10
+    21300020: Map_EpicBalcony_RiverWaves_11
+    21300022: Map_EpicBalcony_RiverWaves_12
+    21300024: Map_EpicBalcony_RiverWaves_13
+    21300026: Map_EpicBalcony_RiverWaves_14
+    21300028: Map_EpicBalcony_RiverWaves_15
+    21300030: Map_EpicBalcony_RiverWaves_16
+    21300032: Map_EpicBalcony_RiverWaves_17
+    21300034: Map_EpicBalcony_RiverWaves_18
+    21300036: Map_EpicBalcony_RiverWaves_19
+    21300038: Map_EpicBalcony_RiverWaves_20
+    21300040: Map_EpicBalcony_RiverWaves_21
+    21300042: Map_EpicBalcony_RiverWaves_22
+    21300044: Map_EpicBalcony_RiverWaves_23
+    21300046: Map_EpicBalcony_RiverWaves_24
+    21300048: Map_EpicBalcony_RiverWaves_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Map_EpicBalcony_RiverWaves_0
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 2085
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Map_EpicBalcony_RiverWaves_1
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1989
+        width: 20
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Map_EpicBalcony_RiverWaves_2
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 2030
+        width: 8
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Map_EpicBalcony_RiverWaves_3
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 2093
+        width: 10
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Map_EpicBalcony_RiverWaves_4
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 2030
+        width: 18
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Map_EpicBalcony_RiverWaves_6
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1792
+        width: 234
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Map_EpicBalcony_RiverWaves_7
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 1753
+        width: 86
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Map_EpicBalcony_RiverWaves_8
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 1634
+        width: 232
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Map_EpicBalcony_RiverWaves_9
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1581
+        width: 86
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Map_EpicBalcony_RiverWaves_10
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1464
+        width: 234
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Map_EpicBalcony_RiverWaves_11
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 1347
+        width: 84
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Map_EpicBalcony_RiverWaves_12
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1319
+        width: 86
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Map_EpicBalcony_RiverWaves_13
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 1112
+        width: 86
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Map_EpicBalcony_RiverWaves_14
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 1011
+        width: 234
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Map_EpicBalcony_RiverWaves_15
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 903
+        width: 235
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Map_EpicBalcony_RiverWaves_16
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 714
+        width: 86
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Map_EpicBalcony_RiverWaves_17
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 688
+        width: 86
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Map_EpicBalcony_RiverWaves_18
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 556
+        width: 234
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Map_EpicBalcony_RiverWaves_19
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 454
+        width: 86
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Map_EpicBalcony_RiverWaves_20
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 413
+        width: 85
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Map_EpicBalcony_RiverWaves_21
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 278
+        width: 234
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Map_EpicBalcony_RiverWaves_22
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 169
+        width: 235
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Map_EpicBalcony_RiverWaves_23
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 97
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Map_EpicBalcony_RiverWaves_24
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 67
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Map_EpicBalcony_RiverWaves_25
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 1
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

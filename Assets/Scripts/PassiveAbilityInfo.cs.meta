@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2912da2bfa512ba4aadfa6b37e7e36d2
+labels:
+- Equipment
+- Abstract
+- Class
+- Ability
+- Passive
+timeCreated: 1445436280
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 1dc80e43865e8fb409cb5126dc419fac
+timeCreated: 1453343953
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DualDagger_Right
+    21300002: DualDagger_Left
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 700
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: DualDagger_Right
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 99
+        width: 192
+        height: 892
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81, y: -178}
+        - {x: 96, y: -141}
+        - {x: 96, y: -59}
+        - {x: 70, y: -15}
+        - {x: 60, y: -21}
+        - {x: 59, y: 121}
+        - {x: 57, y: 196}
+        - {x: 67, y: 255}
+        - {x: 68, y: 446}
+        - {x: 58, y: 446}
+        - {x: -2, y: 386}
+        - {x: -30, y: 336}
+        - {x: -38, y: 299}
+        - {x: -39, y: 263}
+        - {x: -40, y: 231}
+        - {x: -41, y: 99}
+        - {x: -48, y: 22}
+        - {x: -87, y: -79}
+        - {x: -96, y: -94}
+        - {x: -96, y: -152}
+        - {x: -93, y: -178}
+        - {x: -68, y: -231}
+        - {x: -26, y: -205}
+        - {x: -15, y: -156}
+        - {x: -19, y: -287}
+        - {x: -11, y: -292}
+        - {x: -11, y: -410}
+        - {x: -18, y: -416}
+        - {x: -15, y: -446}
+        - {x: 38, y: -446}
+        - {x: 39, y: -445}
+        - {x: 63, y: -189}
+        - {x: 68, y: -192}
+    - name: DualDagger_Left
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 99
+        width: 194
+        height: 892
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -287}
+        - {x: 18, y: -233}
+        - {x: 30, y: -206}
+        - {x: 66, y: -230}
+        - {x: 88, y: -194}
+        - {x: 97, y: -127}
+        - {x: 97, y: -92}
+        - {x: 56, y: -6}
+        - {x: 46, y: 52}
+        - {x: 41, y: 241}
+        - {x: 38, y: 292}
+        - {x: 32, y: 324}
+        - {x: 19, y: 357}
+        - {x: -10, y: 398}
+        - {x: -57, y: 444}
+        - {x: -60, y: 446}
+        - {x: -68, y: 446}
+        - {x: -67, y: 256}
+        - {x: -57, y: 237}
+        - {x: -59, y: 30}
+        - {x: -76, y: -24}
+        - {x: -93, y: -58}
+        - {x: -97, y: -87}
+        - {x: -97, y: -130}
+        - {x: -92, y: -149}
+        - {x: -79, y: -181}
+        - {x: -66, y: -193}
+        - {x: -38, y: -170}
+        - {x: -38, y: -445}
+        - {x: -37, y: -446}
+        - {x: 15, y: -446}
+        - {x: 18, y: -416}
+        - {x: 11, y: -410}
+        - {x: 11, y: -293}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
